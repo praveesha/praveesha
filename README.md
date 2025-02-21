@@ -1,27 +1,18 @@
 # 👋 Hi there, I'm Praveesha De Silva!
   
-  🚀 **BSc.(Hons) IT Undergraduate | UI/UX Enthusiast | Software Developer | Content Creator**  
-  🎓 **University of Moratuwa** | Passionate about **technology, creativity, and innovation**  
+   **BSc.(Hons) IT Undergraduate | University of Moratuwa**  
+   **Passionate about **web development, technology, creativity, and innovation**  
 
-  ---
-</div>
 
-## 🌟 About Me
-- 💡 Exploring **UI/UX, Web Development, Software Engineering**
-- ✍️ Passionate **content writer**, crafting blogs, captions, and editorial pieces
-- 🎤 **Event host & organizer**, leading impactful university initiatives
-- 🔍 Enthusiastic about **Artificial Intelligence (AI) & IoT**
-
----
-
-## 🔧 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📌 Featured Projects
 🔹 **[Mora UXplore 2.0](#)** – A dynamic UI/UX challenge promoting innovation  
@@ -31,10 +22,8 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%">
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveesha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveesha&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
 ---
 
