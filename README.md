@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Praveesha De Silva!
   
-   **BSc.(Hons) IT Undergraduate | University of Moratuwa**  
-   **Passionate about **web development, technology, creativity, and innovation**  
+ A passionate and driven individual, currently pursuing the BSc. (Hons) in IT at the University of Moratuwa. I have a strong interest in technology, software development, and problem-solving, and I thrive on challenges that allow me to blend creativity with technology to develop innovative solutions. 
+
+I'm eager to continue growing and making a meaningful impact in the tech industry 🌟.  
 
 
 ## Tech Stack
