@@ -1,23 +1,28 @@
-# 👋 Hi there, I'm Praveesha De Silva!
+<div align="center">
+  <img src="https://github.com/your-github-username.png" width="150" alt="Praveesha De Silva">
+  
+  # 👋 Hi there, I'm Praveesha De Silva!
+  
+  🚀 **BSc.(Hons) IT Undergraduate | UI/UX Enthusiast | Software Developer | Content Creator**  
+  🎓 **University of Moratuwa** | Passionate about **technology, creativity, and innovation**  
 
-Welcome to my GitHub profile! 🚀 I'm a passionate **BSc.(Hons) IT undergraduate** at the **University of Moratuwa**, with a keen interest in **UI/UX, software development, content writing, and event management**.
-
----
+  ---
+</div>
 
 ## 🌟 About Me
-- 🎓 Undergraduate at the **University of Moratuwa** (BSc.(Hons) in IT)
-- 🖥️ Passionate about **UI/UX, Web Development, and Software Engineering**
-- ✍️ Enthusiastic **content writer**, focusing on blogs, captions, and editorial work
-- 🎤 **Event host & organizer**, actively involved in major university events
-- 💡 Love exploring **Artificial Intelligence (AI) & IoT**
+- 💡 Exploring **UI/UX, Web Development, Software Engineering**
+- ✍️ Passionate **content writer**, crafting blogs, captions, and editorial pieces
+- 🎤 **Event host & organizer**, leading impactful university initiatives
+- 🔍 Enthusiastic about **Artificial Intelligence (AI) & IoT**
 
 ---
 
-## 🔧 Tech Skills
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React.js, Tailwind CSS
-- **Tools:** Figma, Git, GitHub, VS Code
-- **Other Interests:** UI/UX Design, Content Writing, Public Speaking
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -28,10 +33,18 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **BSc.(Hons) IT undergraduat
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%">
+</div>
+
+---
+
 ## 📢 Let's Connect!
-- 💼 [LinkedIn](#)  
-- 📧 [Email](#)  
-- 📝 [Portfolio](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 🌟 *Always open to collaborations and learning new things!*  
 Thanks for visiting! 😊🚀
