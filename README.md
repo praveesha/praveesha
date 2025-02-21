@@ -16,9 +16,8 @@ I'm eager to continue growing and making a meaningful impact in the tech industr
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📌 Featured Projects
-🔹 **[Mora UXplore 2.0](#)** – A dynamic UI/UX challenge promoting innovation  
-🔹 **[MoraForesight 2.0](#)** – A tech-driven initiative for young innovators  
-🔹 **[Software Development - ByteForce](#)** – Team project focusing on impactful solutions  
+🔹 **[Smart PathFinder](#)** – Webapp for an IoT based navigation system for organizations
+🔹 **[Wattoruwa](#)** – A recipe platform for traditional Sri Lankan cuisine
 
 ---
 
