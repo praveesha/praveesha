@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/your-github-username.png" width="150" alt="Praveesha De Silva">
-  
-  # 👋 Hi there, I'm Praveesha De Silva!
+# 👋 Hi there, I'm Praveesha De Silva!
   
   🚀 **BSc.(Hons) IT Undergraduate | UI/UX Enthusiast | Software Developer | Content Creator**  
   🎓 **University of Moratuwa** | Passionate about **technology, creativity, and innovation**  
