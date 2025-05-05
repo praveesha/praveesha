@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Praveesha De Silva!
   
- A passionate and driven individual, currently pursuing the BSc. (Hons) in IT at the University of Moratuwa. I have a strong interest in technology, software development, and problem-solving, and I thrive on challenges that allow me to blend creativity with technology to develop innovative solutions. 
+ A passionate and driven individual, currently pursuing the BSc. (Hons) in IT at the University of Moratuwa. I have a strong interest in technology and problem-solving, and I thrive on challenges that allow me to blend creativity with technology to develop innovative solutions. 
 
 I'm eager to continue growing and making a meaningful impact in the tech industry.
  
