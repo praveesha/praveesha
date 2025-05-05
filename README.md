@@ -19,8 +19,10 @@ I'm eager to continue growing and making a meaningful impact in the tech industr
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📌 Featured Projects
-🔹 **[Smart PathFinder](#)** – Webapp for an IoT based navigation system for organizations <br/>
-🔹 **[Wattoruwa](#)** – A recipe platform for traditional Sri Lankan cuisine
+🔹 **[Smart PathFinder](https://github.com/praveesha/Smart_Pathfinder.git)** – Webapp for an IoT based navigation system for organizations <br/>
+🔹 **[Wattoruwa](https://github.com/VinukaVilhan/final-version-main.git)** – A recipe platform for traditional Sri Lankan cuisine
+🔹 **[MindfulConnect](https://github.com/VinukaVilhan/final-version-main.git)** – An online counselling platform (Ongoing project)
+🔹 **[Subscription Tracker](https://github.com/praveesha/Subscription-Tracker.git)**
 
 ---
 
